@@ -1,6 +1,6 @@
-# Kotlin Adnroid App to Write in SQLLITE DB
+# Kotlin Adnroid App to insert in SQLLITE DB
  
- An example of an Android application to writing in the SQLLITE Database using Kotlin  
+ An example of an Android application to writing in the SQLLITE Database using Kotlin (without MVVM Pattern)  
  
  <img width="269" alt="x1" src="https://user-images.githubusercontent.com/72284697/170839707-8f89d9ff-56d3-4a53-9825-d1432081fa0e.png">  
 
